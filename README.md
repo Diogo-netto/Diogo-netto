@@ -40,16 +40,16 @@
 </div>
 
 ---
-
 ## 🌎 Contato e Redes
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-jos%C3%A9-morais-netto-60b827209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRLpz35MsR6uOK2iwoAtq2w%3D%3D)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josediogo839@gmail.com)
 
 </div>
+
 
 ---
 
