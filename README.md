@@ -1,19 +1,56 @@
-👋 Olá, eu sou o @Diogo-netto
+<h1 align="center">👋 Olá! Eu sou o Diogo Netto</h1>
 
--🎓 Tenho graduação em Análise Desenvolvimento de Sistemas.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+- 💻 Desenvolvedor Front-End | HTML • CSS • JavaScript  
+- 🚀 Atualmente criando projetos reais para clientes  
+- 🌱 Estudando JavaScript avançado e iniciando no Back-End  
+- 💡 Sempre aprendendo e buscando evoluir como desenvolvedor  
 
--💻 Tenho conhecimentos em HTML, CSS e JavaScript, e estou sempre buscando aprimorar minhas habilidades.
+---
 
--🚀 Atualmente, estou trabalhando em vários projetos, incluindo trabalhos para clientes, enquanto estudo e aplico novos aprendizados.
+## 📊 Minhas Estatísticas no GitHub
 
--🌱 Meu foco no momento é aperfeiçoar meus conhecimentos em JavaScript e me aprofundar no Back End.
+<div align="center">
+  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Diogo-netto&show_icons=true&theme=radical)
 
--💡 Acredito no aprendizado contínuo e na aplicação prática do conhecimento para enfrentar desafios reais.
+</div>
 
--📫 Sinta-se à vontade para entrar em contato ou colaborar comigo aqui no GitHub!
-...
+---
 
-<!---
-Diogo-netto/Diogo-netto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Linguagens mais utilizadas
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-netto&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🛠️ Tecnologias que uso
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+
+</div>
+
+---
+
+## 🌎 Contato e Redes
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+</div>
+
+---
+
+⭐ *Obrigado por visitar meu perfil!*
