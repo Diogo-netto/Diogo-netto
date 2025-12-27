@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Diogo Netto</h1>
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-- 💻 Desenvolvedor Front-End | HTML • CSS • JavaScript  
+- 💻 Desenvolvedor Front-End | HTML • CSS • Tailwind CSS • JavaScript  
 - 🚀 Atualmente criando projetos reais para clientes  
 - 🌱 Estudando JavaScript avançado e iniciando no Back-End  
 - 💡 Sempre aprendendo e buscando evoluir como desenvolvedor  
