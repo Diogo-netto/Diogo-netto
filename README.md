@@ -4,12 +4,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diogo-netto&show_icons=true&theme=merko" />
-</p>
-
 ### 🛠️ Tecnologias que uso
 
 <div align="center">
