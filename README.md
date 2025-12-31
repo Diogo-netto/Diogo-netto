@@ -1,56 +1,50 @@
-<h1 align="center">👋 Olá! Eu sou o Diogo Netto</h1>
+# 👋 Olá! Eu sou o Diogo Netto
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-- 💻 Desenvolvedor Front-End | HTML • CSS • Tailwind CSS • JavaScript  
-- 🚀 Atualmente criando projetos reais para clientes  
-- 🌱 Estudando JavaScript avançado e iniciando no Back-End  
-- 💡 Sempre aprendendo e buscando evoluir como desenvolvedor  
+🎓 **Graduado em Análise e Desenvolvimento de Sistemas** 💻 **Desenvolvedor Front-End | HTML • CSS • Tailwind CSS • JavaScript** 🚀 **Criando soluções reais e projetos comerciais de alto impacto**
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogo-netto&show_icons=true&theme=merko" />
+</p>
+
+### 🛠️ Tecnologias que uso
 
 <div align="center">
-  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Diogo-netto&show_icons=true&theme=radical)
-
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-## 🚀 Linguagens mais utilizadas
+### 🚀 Projetos em Destaque (Soluções Reais)
 
-<div align="center">
+💡 *Estes projetos foram desenvolvidos com foco comercial, prontos para serem adaptados e vendidos para empresas e profissionais liberais.*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-netto&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🛠️ Tecnologias que uso
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-
-</div>
-
----
-## 🌎 Contato e Redes
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-jos%C3%A9-morais-netto-60b827209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRLpz35MsR6uOK2iwoAtq2w%3D%3D)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josediogo839@gmail.com)
-
-</div>
-
+* **🐶 [Site para Pet Shop](COLOQUE_O_LINK_AQUI):** Interface moderna e amigável para serviços pet.
+* **💈 [Sistema para Barbearia](COLOQUE_O_LINK_AQUI):** Focado em agendamento e autoridade visual para barbeiros.
 
 ---
 
-⭐ *Obrigado por visitar meu perfil!*
+### 💡 Sobre mim
+* 🌱 Estudando **React.js**, JavaScript avançado e iniciando no Back-End.
+* 💡 Sempre aprendendo e buscando evoluir como desenvolvedor.
+* 📊 Focado em criar código que resolve problemas reais de negócios.
+
+---
+
+### 🌎 Contato e Redes
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/SEU_NUMERO_AQUI" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+---
+⭐ **Obrigado por visitar meu perfil!**
