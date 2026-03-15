@@ -21,7 +21,7 @@
 💡 *Estes projetos foram desenvolvidos com foco comercial, prontos para serem adaptados e vendidos para empresas e profissionais liberais.*
 
 * **🐶 [Site para Pet Shop](COLOQUE_O_LINK_AQUI):** Interface moderna e amigável para serviços pet.
-* **💈 [Sistema para Barbearia](COLOQUE_O_LINK_AQUI):** Focado em agendamento e autoridade visual para barbeiros.
+
 
 ---
 
