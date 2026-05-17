@@ -1,8 +1,9 @@
-
 # 👋 Olá! Eu sou o Diogo Netto
 ### Desenvolvedor Fullstack | Especialista em Soluções Reais 🚀
 
-🎓 **Graduado em Análise e Desenvolvimento de Sistemas** ⏳ **4 anos de jornada autodidata transformando café em sistemas robustos.** 💡 **Foco:** Criar software que resolve problemas de negócios e gera lucro.
+🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
+⏳ **4 anos de experiência projetando aplicações web modernas, com foco em arquiteturas escaláveis, performance e interfaces de alto padrão.**
+💡 **Foco:** Criar software que resolve problemas de negócios e gera lucro.
 
 ---
 
@@ -14,6 +15,8 @@
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   
   <br>
 
@@ -28,27 +31,31 @@
 
 ### 🚀 Projetos Reais em Destaque (Sistemas em Produção)
 
-💡 *Diferente de projetos de tutoriais, estes sistemas estão "na rua", resolvendo problemas de clientes reais.*
+💡 *Diferente de projetos de portfólio, os sistemas abaixo estão em operação contínua, suportando as rotinas de negócios reais e evoluindo constantemente para garantir máxima performance e funcionalidade.*
 
-* **🐾 Pet Agenda Pro (SaaS Fullstack)** *Sistema completo de agendamento e gestão para Pet Shops.* `React` `TypeScript` `Firebase Auth` `Firestore`  
-    👉 [Ver Projeto](https://pet-agenda-pro.web.app/)
+#### 🐾 Ecossistema Pet Shop (Em produção há +8 meses)
+* **Agenda Pro App:** Sistema interno completo para Banho e Tosa. Conta com gestão inteligente de agendamentos, controle de pagamentos e geração de relatórios operacionais.  
+  `Vite` `React` `TypeScript` `Firebase`
+* **Site Estático - Cantinho do Pêlo:** Landing page institucional rápida e otimizada para captação de clientes.  
+  `HTML` `CSS` `JavaScript`
 
-* **🏆 Sistema de Ranking - Clube de Tênis de Mesa** *Gestão de atletas, pontuação em tempo real e lógica de ranking complexa.* `Vite` `TypeScript` `Firebase`  
-    👉 [Ver Repositório](https://github.com/Diogo-netto)
+#### 🏓 Ecossistema Tênis de Mesa (Em produção há +6 meses)
+* **App de Ranking para Clubes:** Aplicação robusta para gestão de pontuação e ranking de atletas em tempo real.  
+  `Vite` `React` `TypeScript` `Firebase`
+* **Sistema de Torneios e Chaveamento:** Plataforma completa para organização de competições, realizando desde o sorteio de fases de grupos até o chaveamento eliminatório automático.  
+  `Vite` `React` `TypeScript` `Firebase`
 
-* **🏖️ Arena de Areia (Booking App)** *Plataforma de agendamento de quadras com foco em mobilidade.* `React` `Tailwind CSS` `Node.js`  
-    *Status: Lançamento em breve.*
-
-* **🎬 Hub para Criadores de Conteúdo** *Landing Page de alta conversão para canais do YouTube.* `Bootstrap` `Tailwind` `Vercel`  
-    👉 [Ver Projeto](https://web-site-ylout.vercel.app/)
+#### 🚧 Em Desenvolvimento
+* **Colmeia - Gestão ERP:** Sistema abrangente de gestão de fluxo de caixa (entradas e saídas) e controle financeiro voltado para lojas de materiais de construção e segmento pet.  
+  `Vite` `React` `TypeScript` `Firebase`
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo-netto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-netto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogo-netto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-netto&layout=compact&langs_count=7&theme=tokyonight" width="35%" />
 </div>
 
 ---
@@ -62,5 +69,3 @@ Se você busca um desenvolvedor que entende de **regra de negócio**, **prazos**
   <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://banho-e-tosa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </div>
-
----
